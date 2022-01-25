@@ -1,10 +1,8 @@
 # Mini_Shell
-Readme 1
+
 name:   Racheli matzliach
-id:208179267
 
 
-EX_2_208179267.c
 
 description:
 In this exercise, I exercised the minishell by a father and son and a command line wanted by the father and son in charge of executing the command. Each step in the loop has an input check to see if such a command exists. :
